@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-slider",
+  "version": "1.0",
+  "homepage": "hhttps://bitbucket.org/optiflowsrd/bootstrap-slider",
+  "authors": [
+    "Stefan Petre",
+    "Optiflows"
+  ],
+  "description": "Optiflows fork of bootstrap-slider component by Stefan Petre",
+  "keywords": [
+    "javascript",
+    "bootstrap",
+    "slider"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
